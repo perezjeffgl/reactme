@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+```
+npx create-react-app react-shopping-cart
+```
+
+Then new components were created for the shopping cart functionality, including:
+* List of products
+* Product details
+* Shopping cart
+
+Using create react component folder tool
+```
+npm install -g create-react-component-folder
+crcf src/components/ListItems
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
